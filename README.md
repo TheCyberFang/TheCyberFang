@@ -5,6 +5,8 @@
 
 Check out my Website: https://thecyberblock.com 
 
+Also check out my TryHackMe profile: https://tryhackme.com/p/m3rlinPredator
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
